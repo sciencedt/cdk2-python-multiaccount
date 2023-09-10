@@ -1,0 +1,4 @@
+{
+  "dev": {"account": "111111111111", "region": "us-east-1"},
+  "preprod": {"account": "2222222222", "region": "us-east-1"}
+}
